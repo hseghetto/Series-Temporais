@@ -1,2 +1,3 @@
 # Series Temporais
  
+ENG1469 - ANALISE DE SERIES TEMPORAIS 
